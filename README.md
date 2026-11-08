@@ -69,7 +69,7 @@ Todos los archivos Java se encuentran dentro de la carpeta `src`.
 Ejecutar estos comandos desde la carpeta principal del proyecto:
 
 
-javac -encoding UTF-8 -d bin src/*.java
+javac -encoding UTF-8 -d bin *.java
 java -cp bin Principal
 
 
